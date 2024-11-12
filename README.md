@@ -1,0 +1,5 @@
+Litemono_evaluate_cityscapes
+能够使用CityScapes对Litemono进行evaluation.需要自己设置能够读取的Encoder以及Decoder的类。
+需要将./datasets中的出kitti_dataset以外的所有文件复制到自己的文件夹中
+在./tmp中放置好对应名称的weights
+python 
