@@ -1,0 +1,2 @@
+# Litemono_evaluate_cityscapes
+能够使用CityScapes对Litemono进行evaluation.需要自己设置能够读取的Encoder以及Decoder的类
